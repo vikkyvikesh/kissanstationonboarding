@@ -222,7 +222,7 @@ class _DeliveryStatusPageState extends State<DeliveryStatusPage> {
               ),
               ElevatedButton(
                 onPressed: () {
-                  // Navigator.pop(context);
+                  Navigator.pop(context);
                 },
                 style: ElevatedButton.styleFrom(
                     shape: RoundedRectangleBorder(
